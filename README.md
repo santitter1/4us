@@ -47,7 +47,9 @@
 #### Romero Camila
 #### instagram y mail
 
-## ¿como contactarnos? fede
+## ¿Como contactarnos?
+### Pagina Web linktr.ee/proyecto4us
+### Instagram @proyecto_4us
 
 ## titulo lista integrantes 
 
