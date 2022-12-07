@@ -51,5 +51,3 @@
 ### 📧Mail grupon4us@gmail.com
 
 ## titulo lista integrantes 
-
-## esponsor cami
