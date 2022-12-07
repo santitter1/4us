@@ -46,8 +46,9 @@
 #### instagram y mail
 
 ## ¿Como contactarnos?
-### Pagina Web linktr.ee/proyecto4us
-### Instagram @proyecto_4us
+### 📑Pagina Web linktr.ee/proyecto4us
+### 📷Instagram @proyecto_4us
+### 📧Mail grupon4us@gmail.com
 
 ## titulo lista integrantes 
 
