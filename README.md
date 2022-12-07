@@ -6,8 +6,6 @@
 ## ¿Que es 4us? 
 ### Es un cesto de residuos reciclables inteligente, el cual, de una forma dicertida y amigable va a inculcar la importancua del reciclaje en nuestra vida diaria a los mas chicos. 
 
-## ¿Como funciona? marian
-
 ## ¿Como funciona?
 ### El proyecto funcionará de la siguiente manera: podrá separar tanto madera y derivados, como plasticos o metales. El niño que utilice 4us colocará la basura en el tacho, indicando la clasificacion de la basura. Esto lo conseguirá pulsando uno de los tres botones disponibles,(cada uno correspondiendo a los tres tipos de resiuduos antes nombrados). Dicho residuo será sensado y confirmará si corresponde con la categoria que marcó el niño. Si coincide, irá a su contenedor correspondiente de forma automática; de lo contrario, será devuelto al usuario.
 
@@ -16,12 +14,12 @@
 
 ## ¿Donde utilizarlo?
 
-## 4US se usara en escuelas y hospitales donde la creatividad y el aprendizaje de los niños y niñas abunda. Tambien, por su sistema de deteccion de residuos, puede ser usado en aeropuertos, fabricas, oficinas, etc.
+### 4US se usara en escuelas y hospitales donde la creatividad y el aprendizaje de los niños y niñas abunda. Tambien, por su sistema de deteccion de residuos, puede ser usado en aeropuertos, fabricas, oficinas, etc.
 
 ## ¿Por que utilizarlo?
 ### 4us es un proyecto diseñado para ayudar al medio ambiente a traves del reciclaje. El objetivo es inculcarles a los chicos que el reciclaje es muy importante en nuestra vida diaria y lo importante que es cuidar el medio ambiente porque de ello depende nuestra salud y nuestra vida. 
 
-## Integrantes pier
+## Integrantes
 
 #### Aranda Federico
 #### instagram y mail
