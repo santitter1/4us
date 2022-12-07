@@ -11,7 +11,8 @@ Es un cesto de residuos reciclables inteligente, el cual, de una forma dicertida
 ## ¿Como funciona?
 El proyecto funcionará de la siguiente manera: podrá separar tanto madera y derivados, como plasticos o metales. El niño que utilice 4us colocará la basura en el tacho, indicando la clasificacion de la basura. Esto lo conseguirá pulsando uno de los tres botones disponibles,(cada uno correspondiendo a los tres tipos de resiuduos antes nombrados). Dicho residuo será sensado y confirmará si corresponde con la categoria que marcó el niño. Si coincide, irá a su contenedor correspondiente de forma automática; de lo contrario, será devuelto al usuario.
 
-## ¿quienes lo desarrollan? litio
+## ¿quienes lo desarrollan? 
+Lo desarrollamos un grupo de estudiantes de la escuela tecnica n7 con el fin de inculcar el reciclaje a los mas pequeños.
 
 ## ¿donde utilizarlo?
 
